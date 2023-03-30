@@ -67,6 +67,11 @@ Logic symbol & Truthtable
 RTL realization
 Output:
 RTL
+![RTL](https://user-images.githubusercontent.com/118364993/228875240-e4938fd1-9db9-4aeb-9d91-b2dcb36ab41a.png)
+
+WAVEFORM
+![Waveform](https://user-images.githubusercontent.com/118364993/228875467-b823e197-8224-4fce-8240-a8cc021561e6.png)
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
