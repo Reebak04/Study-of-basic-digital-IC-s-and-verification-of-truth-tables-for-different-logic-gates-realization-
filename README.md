@@ -58,7 +58,7 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
-##Program:
+## Program:
 
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
@@ -83,7 +83,7 @@ Logic symbol & Truthtable
 
 RTL realization
 
-##Output:
+## Output:
 
 RTL
 ![RTL](https://user-images.githubusercontent.com/118364993/228875240-e4938fd1-9db9-4aeb-9d91-b2dcb36ab41a.png)
